@@ -1,5 +1,5 @@
 # PasswordGenerator
-A simple tool to generate unique, strong passwords.
+A tool to generate unique, strong passwords. Users can select the password length, and whether or not it should contain upper or lower-case letters, numbers, or special characters.
 <br />
 ![Main Window](screenshots/main.png?raw=true "Main Window")
 <br />
